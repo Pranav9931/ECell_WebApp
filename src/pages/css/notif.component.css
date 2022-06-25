@@ -1,0 +1,64 @@
+.notif-panel{
+    flex: .3;
+    background: #0f0f0f;
+    border: .02em solid rgb(209, 209, 209, .2);
+    border-radius: 10px;
+    padding: 40px 20px 30px 20px;
+    font-weight: 600;
+    align-self: flex-start;
+    position:sticky;
+    top: 120px;
+    left: 0;
+    overflow-y: auto;
+}
+
+.notif-panel-items-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.notif-panel-item{
+    padding: 10px;
+    border-radius: 10px;
+    background: #161616;
+    border: .01em solid#d1d1d102;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.notif-panel-item .items-wrapper{
+    display: flex;
+}
+
+.notif-panel-item .items-wrapper img{
+    width: 70px;
+    height: 70px;
+    border-radius: 5px;
+}
+
+.notif-panel-item:hover{
+    transition: all .2s ease-in-out;
+    box-shadow: 0em 0em .5em rgba(0,0,0,.1);
+    background: #191919;
+}
+.item-content-wrapper{
+    padding: 0 10px;
+    font-size: .9em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.desc{
+    font-weight: 400;
+    opacity: .5;
+}
+
+.venue, .desc{
+    font-size: .7em;
+}
+
+.notif-panel-items-wrapper img{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+}
