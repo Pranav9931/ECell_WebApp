@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ECell_WebApp/static/css/main.b7e3a0e6.css",
+    "main.css": "/ECell_WebApp/static/css/main.0f53a31f.css",
     "main.js": "/ECell_WebApp/static/js/main.a86b211f.js",
     "static/js/787.60baa0fb.chunk.js": "/ECell_WebApp/static/js/787.60baa0fb.chunk.js",
     "static/media/main_background.png": "/ECell_WebApp/static/media/main_background.9d45354058cc59b8d8d5.png",
@@ -12,12 +12,12 @@
     "static/media/Stars_Left_Design_Dark.svg": "/ECell_WebApp/static/media/Stars_Left_Design_Dark.fdcc5db1fb35828ff62e4c96c30eb6fc.svg",
     "static/media/Stars_Right_Design_Dark.svg": "/ECell_WebApp/static/media/Stars_Right_Design_Dark.25c159c7d75638ec888374b6d886e52a.svg",
     "index.html": "/ECell_WebApp/index.html",
-    "main.b7e3a0e6.css.map": "/ECell_WebApp/static/css/main.b7e3a0e6.css.map",
+    "main.0f53a31f.css.map": "/ECell_WebApp/static/css/main.0f53a31f.css.map",
     "main.a86b211f.js.map": "/ECell_WebApp/static/js/main.a86b211f.js.map",
     "787.60baa0fb.chunk.js.map": "/ECell_WebApp/static/js/787.60baa0fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7e3a0e6.css",
+    "static/css/main.0f53a31f.css",
     "static/js/main.a86b211f.js"
   ]
 }
