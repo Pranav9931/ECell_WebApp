@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/ECell_WebApp/static/css/main.0f53a31f.css",
-    "main.js": "/ECell_WebApp/static/js/main.a86b211f.js",
+    "main.css": "/ECell_WebApp/static/css/main.4702d410.css",
+    "main.js": "/ECell_WebApp/static/js/main.4d5da527.js",
     "static/js/787.60baa0fb.chunk.js": "/ECell_WebApp/static/js/787.60baa0fb.chunk.js",
-    "static/media/main_background.png": "/ECell_WebApp/static/media/main_background.9d45354058cc59b8d8d5.png",
+    "static/media/main_background-min.png": "/ECell_WebApp/static/media/main_background-min.eef20d73c856d1b69324.png",
     "static/media/MAYANK_RAI_IMAGE.png": "/ECell_WebApp/static/media/MAYANK_RAI_IMAGE.49c828d91db6f56b2f85.png",
     "static/media/ECellWhite.png": "/ECell_WebApp/static/media/ECellWhite.d45214d6937be3ab4c97.png",
-    "static/media/Mentor_Image.jpeg": "/ECell_WebApp/static/media/Mentor_Image.922512a23e5ea0f82e1f.jpeg",
+    "static/media/Map_Background.png": "/ECell_WebApp/static/media/Map_Background.f1038390ee7a1340ffca.png",
+    "static/media/MrMukeshKrishnan.jpg": "/ECell_WebApp/static/media/MrMukeshKrishnan.af834fcb981eb570929f.jpg",
     "static/media/people_img.png": "/ECell_WebApp/static/media/people_img.ea1eaa58f79a0a19b256.png",
     "static/media/home_content_txt_dark.svg": "/ECell_WebApp/static/media/home_content_txt_dark.4edd210cd7aa9cfa0b9edbdc24d2dbfd.svg",
     "static/media/Stars_Left_Design_Dark.svg": "/ECell_WebApp/static/media/Stars_Left_Design_Dark.fdcc5db1fb35828ff62e4c96c30eb6fc.svg",
     "static/media/Stars_Right_Design_Dark.svg": "/ECell_WebApp/static/media/Stars_Right_Design_Dark.25c159c7d75638ec888374b6d886e52a.svg",
     "index.html": "/ECell_WebApp/index.html",
-    "main.0f53a31f.css.map": "/ECell_WebApp/static/css/main.0f53a31f.css.map",
-    "main.a86b211f.js.map": "/ECell_WebApp/static/js/main.a86b211f.js.map",
+    "main.4702d410.css.map": "/ECell_WebApp/static/css/main.4702d410.css.map",
+    "main.4d5da527.js.map": "/ECell_WebApp/static/js/main.4d5da527.js.map",
     "787.60baa0fb.chunk.js.map": "/ECell_WebApp/static/js/787.60baa0fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f53a31f.css",
-    "static/js/main.a86b211f.js"
+    "static/css/main.4702d410.css",
+    "static/js/main.4d5da527.js"
   ]
 }
