@@ -1,7 +1,12 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./css/mentors.component.css";
-import Mentor_Image from "../assets/Mentor_Image.jpeg";
+import Mentor_Image from "../assets/MrMukeshKrishnan.jpg";
 import Mayank_Rai_Image from "../assets/MAYANK_RAI_IMAGE.png";
+
+import GraphicLeft from "../assets/Stars_Left_Design_Dark.svg";
+import GraphicRight from "../assets/Stars_Right_Design_Dark.svg";
+
 function Mentors() {
   return (
     <div className="mentors-container flex flex-dir-clm">
@@ -17,11 +22,13 @@ function Mentors() {
         <div className="mentors-column">
           <img src={Mentor_Image} />
           <span className="mentors-feed">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit mi
-            egestas vitae quisque. Volutpat lobortis arcu, sem varius sapien
-            lacus, sed et dolor. Sed velit, posuere orci phasellus. Est, tellus
-            morbi sem commodo suspendisse odio consequat. Odio ipsum mauris
-            feugiat enim a. Sem mauris ac, adipiscing amet mi sed.
+            Working as a Professor in the School of Computing, SRM Institute of
+            Science and Technology hold more two decades of experience in
+            entrepreneurship mentoring. Spent a semester long time in UC
+            Berkeley and gone through the learning process of entrepreneurship
+            teaching pedagogy and Implementing in SRM Institute of Science and
+            Technology. Holds the close connections with the silicon valley
+            entrepreneurs and Investors.
           </span>
           <span className="mentors-name">Dr. Mukesh Krishnan M B</span>
           <span className="mentors-designation">
@@ -44,6 +51,16 @@ function Mentors() {
             - Founder, <span className="coloured-text">E-Cell SRMIST</span>
           </span>
         </div>
+      </div>
+      <span className="link mr-tp-20">
+        <Link className="txt-green" to="/teams">
+          Meet our team
+        </Link>
+      </span>
+
+      <div className="mentors-section-graphic">
+        <img src={GraphicLeft} />
+        <img src={GraphicRight} />
       </div>
     </div>
   );

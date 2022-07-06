@@ -7,6 +7,7 @@
 .home-background{
     display: flex;
     justify-content: space-between;
+    overflow: hidden;
 }
 .home-content-head{
     position: absolute;
@@ -24,14 +25,18 @@
     width: 50%;
 }
 .home-content{
-    width: 40%;
+    width: 45%;
     margin: 1.6em 0;
     opacity: .5;
     font-weight: 400;
+    font-size: 1em;
+}
+
+#people_img{
+    margin-left: 20px;
 }
 
 .home-btn{
-    width: 320px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -52,4 +57,54 @@
     display: flex;
     flex:1;
     justify-content: space-between;
+    /* flex-wrap: wrap-reverse; */
+}
+
+@media screen and (max-width: 1000px) {
+    .home-content-head img{
+        width: 70%;
+    }
+    #people_img{
+        width: 50%;
+    }
+    .home-content{
+        font-size: .8em;
+    }
+    .about-us-section{
+        flex-wrap: wrap-reverse;
+    }
+}
+
+@media screen and (max-width: 700px){
+    .home-btn{
+        flex-wrap: nowrap;
+        flex-direction: column;
+        min-height: 100px;
+        align-items: center;
+    }
+    .hm-btn{
+        height: 50px;
+        width: 300px;
+    }
+    #people_img{
+        margin-left: 0;
+        width: 150px;
+        margin-top: 20px;
+    }
+    .home-content-head{
+        margin-top: 100px;
+        width: 95%;
+    }
+    .home-content-head img{
+        width: 95%;
+    }
+    .home-content{
+        width: 95%;
+        margin: 30px auto;
+    }
+    .home-container{
+        width: 95%;
+        padding: 0 2.5%;
+    }
+
 }

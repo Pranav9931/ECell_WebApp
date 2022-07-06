@@ -18,6 +18,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-size: .8em;
 }
 
 .nav-logo img{
@@ -50,4 +51,20 @@
 
 .mode-toggle img{
     width: 12px;
+}
+
+@media screen and (max-width: 750px){
+    
+    .navigation-bar{
+        padding: 0 1.5em;
+        width: calc(100% - 3em);
+    }
+
+    .nav-links{
+        display: none;
+    }
+
+    .mode-toggle{
+        display: none;
+    }
 }

@@ -68,6 +68,29 @@ a:hover{
 .font-sz-08{
     font-size: .8em;
 }
+
+.font-sz-06{
+    font-size: .6em;
+}
 .flex-dir-clm{
     flex-direction: column;
+}
+
+.mr-tp-10{
+    margin-top: 10px;
+}
+
+.mr-btm-10{
+    margin-bottom: 10px;
+}
+.mr-tp-20{
+    margin-top: 20px;
+}
+
+.mr-btm-20{
+    margin-bottom: 20px;
+}
+
+.jst-con-center{
+    justify-content: center;
 }

@@ -6,6 +6,7 @@
     padding: 40px 20px 30px 20px;
     font-weight: 600;
     align-self: flex-start;
+    min-width: 300px;
     position:sticky;
     top: 120px;
     left: 0;
@@ -61,4 +62,18 @@
     width: 50px;
     height: 50px;
     border-radius: 5px;
+}
+
+@media screen and (max-width: 1000px){
+    .notif-panel{
+        flex: 1;
+        margin: 10px 0;
+    }
+}
+
+@media screen and (max-width: 750px){
+    .notif-panel{
+        flex: 1;
+        min-width: auto;
+    }
 }

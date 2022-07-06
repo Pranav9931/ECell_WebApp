@@ -7,6 +7,9 @@ import PeopleImg from "../assets/people_img.png";
 import NotifPanel from "./notif.component";
 import About from "./aboutus.component";
 import Mentors from "./mentors.component";
+import Feedback from "./feedback.component";
+import ConnectWithUs from "./connectwithus.component";
+import Footer from "./footer.component";
 const Home = () => {
   return (
     <div className="home-container">
@@ -17,14 +20,17 @@ const Home = () => {
       <div className="home-content-head">
         <img src={HomeContent} alt="home_content_head" />
         <span className="home-content">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Adipiscing
-          hendrerit integer donec velit.
+          E-Cell SRMIST is a student-run entrepreneurial organization, official
+          under C.Tech. department under the SCO.
         </span>
         <div className="home-btn">
           <button className="btn hm-btn">Become a Member</button>
-          <img src={PeopleImg} alt="people_img" />
+          <img src={PeopleImg} id="people_img" alt="people_img" />
         </div>
       </div>
+
+      {/* About Us Section */}
+
       <div className="about-us-section">
         <NotifPanel />
         <About />
@@ -34,6 +40,22 @@ const Home = () => {
 
       <div className="mentors-opinion">
         <Mentors />
+      </div>
+
+      {/* Feedback Form and Address */}
+      <div className="feedback">
+        <Feedback />
+      </div>
+
+      {/* Connect with us */}
+
+      <div className="connect">
+        <ConnectWithUs />
+      </div>
+
+      {/* footer */}
+      <div className="footer">
+        <Footer />
       </div>
     </div>
   );

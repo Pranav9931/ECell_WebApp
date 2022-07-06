@@ -1,0 +1,91 @@
+.feedback-container {
+  display: flex;
+  min-height: 700px;
+  background: url('../../assets/Map_Background.png');
+  background-size: cover;
+  background-position: center;
+  font-weight: 500;
+  background-repeat: no-repeat;
+  justify-content: center;
+  overflow: auto;
+  flex-wrap:wrap;
+}
+
+.feedback-form{
+    background: #0f0f0f;
+    padding: 30px 20px;
+    border-radius: 10px;
+    align-self:flex-end;
+}
+
+.feedback-header{
+    background: #161616;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.form{
+    padding: 10px;
+}
+
+.form .field{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.form .field .label{
+    font-size: .7em;
+    margin: 10px 0;
+}
+
+.form .field .input-field{
+    padding: 15px 20px;
+    background: transparent;
+    border: .3px solid rgb(209, 209, 209, .1);
+    border-radius: 5px;
+    outline: none;
+    color: #fff;
+    resize: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.address{
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+    min-width: 220px;
+    max-width: 220px;
+    padding: 30px 20px;
+    background: #9ADE56;
+    color: #000;
+    border-radius: 10px;
+    margin: 0 20px;
+}
+
+.address-title{
+    font-size: .8em;
+}
+
+.address-info{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.address-info img{
+    width: 20px;
+    height: 20px;
+}
+
+.address-desc{
+    font-size: .6em;
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 750px){
+    .address{
+        min-width: 0;
+        margin: 20px 0;
+    }
+}
