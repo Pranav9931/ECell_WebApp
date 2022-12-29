@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00c76a88.css",
+    "main.js": "/static/js/main.cf3e0693.js",
+    "static/js/787.60baa0fb.chunk.js": "/static/js/787.60baa0fb.chunk.js",
+    "static/media/main_background-min.png": "/static/media/main_background-min.eef20d73c856d1b69324.png",
+    "static/media/MAYANK_RAI_IMAGE.png": "/static/media/MAYANK_RAI_IMAGE.49c828d91db6f56b2f85.png",
+    "static/media/ECellWhite.png": "/static/media/ECellWhite.d45214d6937be3ab4c97.png",
+    "static/media/Map_Background.png": "/static/media/Map_Background.f1038390ee7a1340ffca.png",
+    "static/media/MrMukeshKrishnan.jpg": "/static/media/MrMukeshKrishnan.af834fcb981eb570929f.jpg",
+    "static/media/people_img.png": "/static/media/people_img.ea1eaa58f79a0a19b256.png",
+    "static/media/home_content_txt_dark.svg": "/static/media/home_content_txt_dark.4edd210cd7aa9cfa0b9edbdc24d2dbfd.svg",
+    "static/media/Stars_Left_Design_Dark.svg": "/static/media/Stars_Left_Design_Dark.fdcc5db1fb35828ff62e4c96c30eb6fc.svg",
+    "static/media/Stars_Right_Design_Dark.svg": "/static/media/Stars_Right_Design_Dark.25c159c7d75638ec888374b6d886e52a.svg",
+    "index.html": "/index.html",
+    "main.00c76a88.css.map": "/static/css/main.00c76a88.css.map",
+    "main.cf3e0693.js.map": "/static/js/main.cf3e0693.js.map",
+    "787.60baa0fb.chunk.js.map": "/static/js/787.60baa0fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00c76a88.css",
+    "static/js/main.cf3e0693.js"
+  ]
+}
