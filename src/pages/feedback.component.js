@@ -74,17 +74,21 @@ function Feedback() {
           Contact <span className="coloured-text">Information</span>
         </span>
         <div className="address-info">
-          <img src={mailIcon} />
+          <img src={mailIcon} alt="mailbox_icon" />
           <span className="address-desc">ecellsrm@srmist.edu.in</span>
         </div>
 
         <div className="address-info">
-          <img src={phoneIcon} />
+          <img src={phoneIcon} alt="phone_icon" />
           <span className="address-desc">+91 - 9999999999</span>
         </div>
 
         <div className="address-info">
-          <img src={locationIcon} style={{ alignSelf: "flex-start" }} />
+          <img
+            src={locationIcon}
+            style={{ alignSelf: "flex-start" }}
+            alt="location_icon"
+          />
           <span className="address-desc">
             Tech Park, SRM Institute of Science & Technology, SRM Nagar,
             Kattankulathur,
@@ -99,7 +103,11 @@ function Feedback() {
         </span>
 
         <div className="address-info">
-          <img src={timerIcon} style={{ alignSelf: "flex-start" }} />
+          <img
+            src={timerIcon}
+            style={{ alignSelf: "flex-start" }}
+            alt="timer_icon"
+          />
           <span className="address-desc">
             Monday - Friday
             <br />

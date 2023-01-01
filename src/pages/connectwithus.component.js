@@ -14,7 +14,7 @@ function ConnectWithUs() {
         <Link to="/whatsapp">
           <div className="contact-online-items">
             <span className="social-media-img-container">
-              <img src={whatsappIcon} />
+              <img src={whatsappIcon} alt="whatsapp_icon" />
             </span>
             <div className="contact-wrapper">
               <span className="contact-online-title">WhatsApp</span>
@@ -28,7 +28,7 @@ function ConnectWithUs() {
         <Link to="/whatsapp">
           <div className="contact-online-items">
             <span className="social-media-img-container">
-              <img src={facebookIcon} />
+              <img src={facebookIcon} alt="facebook_icon" />
             </span>
             <div className="contact-wrapper">
               <span className="contact-online-title">Facebook Messenger</span>
@@ -42,7 +42,7 @@ function ConnectWithUs() {
         <Link to="/whatsapp">
           <div className="contact-online-items">
             <span className="social-media-img-container">
-              <img src={linkedinIcon} />
+              <img src={linkedinIcon} alt="linkedin_icon" />
             </span>
             <div className="contact-wrapper">
               <span className="contact-online-title">Linked In</span>

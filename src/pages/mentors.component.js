@@ -20,7 +20,10 @@ function Mentors() {
       </span>
       <div className="mentors-content">
         <div className="mentors-column">
-          <img src={Mentor_Image} />
+          <img
+            src={Mentor_Image}
+            alt="Mukesh Krishnan, Mentor | E-Cell SRMIST"
+          />
           <span className="mentors-feed">
             Working as a Professor in the School of Computing, SRM Institute of
             Science and Technology hold more two decades of experience in
@@ -38,13 +41,16 @@ function Mentors() {
         </div>
 
         <div className="mentors-column">
-          <img src={Mayank_Rai_Image} />
+          <img src={Mayank_Rai_Image} alt="Mayank Rai | Fonder E-Cell SRMIST" />
           <span className="mentors-feed">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit mi
-            egestas vitae quisque. Volutpat lobortis arcu, sem varius sapien
-            lacus, sed et dolor. Sed velit, posuere orci phasellus. Est, tellus
-            morbi sem commodo suspendisse odio consequat. Odio ipsum mauris
-            feugiat enim a. Sem mauris ac, adipiscing amet mi sed.
+            Who doesn't want to be a part of a community where your craziest
+            ideas are considered seriously and discussed upon? I've wanted to be
+            a part of it since my freshman year in college. Ironically for me,
+            E-Cell, SRMIST has become just the place for all that mind blowing
+            innovation. We welcome innovative minds who are ready to bring about
+            a transformation across the globe. We also work rigorously in order
+            to develop the entrepreneurial mindset among other Semites via
+            various mind blowing events.
           </span>
           <span className="mentors-name">Mayank Rai</span>
           <span className="mentors-designation">
@@ -59,8 +65,8 @@ function Mentors() {
       </span>
 
       <div className="mentors-section-graphic">
-        <img src={GraphicLeft} />
-        <img src={GraphicRight} />
+        <img src={GraphicLeft} alt="graphic_left" />
+        <img src={GraphicRight} alt="graphic_right" />
       </div>
     </div>
   );

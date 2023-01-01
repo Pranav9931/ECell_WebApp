@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./css/home.component.css";
 import GraphicLeft from "../assets/Stars_Left_Design_Dark.svg";
 import GraphicRight from "../assets/Stars_Right_Design_Dark.svg";
@@ -11,6 +11,10 @@ import Feedback from "./feedback.component";
 import ConnectWithUs from "./connectwithus.component";
 import Footer from "./footer.component";
 const Home = () => {
+  useEffect(() => {
+    document.title =
+      "E-Cell SRMIST | The Official Entrepreneurship Cell SRMIST";
+  }, []);
   return (
     <div className="home-container">
       <div className="home-background">

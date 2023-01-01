@@ -9,11 +9,11 @@
     "gh-pages": "^4.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.0.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://ecellsrmist.com",
+  "homepage": "http://pranav9931.github.io/ECell_WebApp/",
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",

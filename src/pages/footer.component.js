@@ -11,7 +11,7 @@ function Footer() {
   return (
     <div className="footer-container">
       <Link to="/">
-        <img src={ECellWhite} />
+        <img src={ECellWhite} alt="ecell_logo" />
       </Link>
       <div className="font-sz-06 op-05 mr-tp-20 mr-btm-20">
         All rights reserved to E-Cell SRMIST
@@ -19,25 +19,33 @@ function Footer() {
       <div className="social-media-links">
         <a href="https://www.facebook.com/profile.php?id=100072747483834">
           <span className="social-media-btn">
-            <img src={fbIcon} style={{ maxWidth: "10px" }} />
+            <img
+              src={fbIcon}
+              style={{ maxWidth: "10px" }}
+              alt="facebook_icon"
+            />
           </span>
         </a>
 
         <a href="https://www.instagram.com/ecell_srmist/">
           <span className="social-media-btn">
-            <img src={instaIcon} />
+            <img src={instaIcon} alt="insta_icon" />
           </span>
         </a>
 
         <Link to="/social">
           <span className="social-media-btn">
-            <img src={twitterIcon} style={{ width: "22px" }} />
+            <img
+              src={twitterIcon}
+              style={{ width: "22px" }}
+              alt="twitter_icon"
+            />
           </span>
         </Link>
 
         <a href="https://www.linkedin.com/company/e-cell-srmist/">
           <span className="social-media-btn">
-            <img src={linkedinIcon} />
+            <img src={linkedinIcon} alt="linkedin_icon" />
           </span>
         </a>
       </div>
@@ -48,7 +56,7 @@ function Footer() {
         </div>
         <span className="font-sz-08" id="credits-text">
           Created by <span className="coloured-text">Designers</span> and{" "}
-          <span class="coloured-text">Developers</span> at E-Cell SRMIST
+          <span className="coloured-text">Developers</span> at E-Cell SRMIST
         </span>
       </div>
     </div>

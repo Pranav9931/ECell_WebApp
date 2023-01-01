@@ -1,0 +1,35 @@
+.blog-page{
+    padding: 6em 1em 1em 1em;
+}
+
+.blog-page-comtainer{
+    font-size: 2em;
+    background: #1c1c1c url('../../assets/repeated-pattern.jpg');
+    background-size:30%;
+    background-position: top center;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    color: #ff8303;
+    font-weight: 700;
+}
+.blog-btn{
+    display: flex;
+    justify-content: center;
+    margin: 30px 0 50px 0;
+}
+
+.blogBtn{
+    background: #eee;
+    color: #000;
+    padding: 15px 25px;
+    font-family: 'poppins', sans-serif;
+    border: none;
+    font-size: .7em;
+    border-radius: 2em;
+    cursor: pointer;
+    font-weight: 600;
+}
+
