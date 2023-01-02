@@ -28,15 +28,15 @@ const Blog = () => {
         "https://medium.com/@srmist.ecell0/entrepreneurship-in-india-a59911e76a7f",
     },
     {
-      title: "Henry Ford's Business STRATEGY",
-      imgSrc: "https://miro.medium.com/max/1400/1*OwCVhqexzBV5UZH8PN-BYg.webp",
-      author: "Anudatt Sunith",
+      title: "Business Vs Entrepreneurship",
+      imgSrc: "https://miro.medium.com/max/4800/1*cov6Pu1pJjbjdPk4DDTBiQ.webp",
+      author: "Pranav Kumar",
       category: "Entrepreneurship",
-      date: "01/01/2023",
+      date: "02/01/2023",
       owner: "E-Cell, SRMIST",
-      desc: "Henry Ford is one of the greatest businessmen of the 20th centu...",
+      desc: "Business and entrepreneurship are two concepts that are ofte...",
       blogUrl:
-        "https://medium.com/@srmist.ecell0/entrepreneurship-in-india-a59911e76a7f",
+        "https://medium.com/@srmist.ecell0/business-vs-entrepreneurship-9e43adee6a87",
     },
   ];
   return (
