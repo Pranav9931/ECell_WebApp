@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.00c76a88.css",
-    "main.js": "/static/js/main.cf3e0693.js",
-    "static/js/787.60baa0fb.chunk.js": "/static/js/787.60baa0fb.chunk.js",
-    "static/media/main_background-min.png": "/static/media/main_background-min.eef20d73c856d1b69324.png",
-    "static/media/MAYANK_RAI_IMAGE.png": "/static/media/MAYANK_RAI_IMAGE.49c828d91db6f56b2f85.png",
-    "static/media/ECellWhite.png": "/static/media/ECellWhite.d45214d6937be3ab4c97.png",
-    "static/media/Map_Background.png": "/static/media/Map_Background.f1038390ee7a1340ffca.png",
-    "static/media/MrMukeshKrishnan.jpg": "/static/media/MrMukeshKrishnan.af834fcb981eb570929f.jpg",
-    "static/media/people_img.png": "/static/media/people_img.ea1eaa58f79a0a19b256.png",
-    "static/media/home_content_txt_dark.svg": "/static/media/home_content_txt_dark.4edd210cd7aa9cfa0b9edbdc24d2dbfd.svg",
-    "static/media/Stars_Left_Design_Dark.svg": "/static/media/Stars_Left_Design_Dark.fdcc5db1fb35828ff62e4c96c30eb6fc.svg",
-    "static/media/Stars_Right_Design_Dark.svg": "/static/media/Stars_Right_Design_Dark.25c159c7d75638ec888374b6d886e52a.svg",
-    "index.html": "/index.html",
-    "main.00c76a88.css.map": "/static/css/main.00c76a88.css.map",
-    "main.cf3e0693.js.map": "/static/js/main.cf3e0693.js.map",
-    "787.60baa0fb.chunk.js.map": "/static/js/787.60baa0fb.chunk.js.map"
+    "main.css": "/ECell_WebApp/static/css/main.fc2e4e54.css",
+    "main.js": "/ECell_WebApp/static/js/main.8c1029cb.js",
+    "static/js/787.60baa0fb.chunk.js": "/ECell_WebApp/static/js/787.60baa0fb.chunk.js",
+    "static/media/Egnite_Poster.jpg": "/ECell_WebApp/static/media/Egnite_Poster.ce880a55b3627495770c.jpg",
+    "static/media/insta_live_01_01_2023.jpg": "/ECell_WebApp/static/media/insta_live_01_01_2023.2209e5346ff5e8ce649b.jpg",
+    "static/media/main_background-min.png": "/ECell_WebApp/static/media/main_background-min.eef20d73c856d1b69324.png",
+    "static/media/repeated-pattern.jpg": "/ECell_WebApp/static/media/repeated-pattern.39fc81d7e4d732f4e882.jpg",
+    "static/media/MAYANK_RAI_IMAGE.png": "/ECell_WebApp/static/media/MAYANK_RAI_IMAGE.49c828d91db6f56b2f85.png",
+    "static/media/ECellWhite.png": "/ECell_WebApp/static/media/ECellWhite.d45214d6937be3ab4c97.png",
+    "static/media/Map_Background.png": "/ECell_WebApp/static/media/Map_Background.f1038390ee7a1340ffca.png",
+    "static/media/MrMukeshKrishnan.jpg": "/ECell_WebApp/static/media/MrMukeshKrishnan.af834fcb981eb570929f.jpg",
+    "static/media/people_img.png": "/ECell_WebApp/static/media/people_img.ea1eaa58f79a0a19b256.png",
+    "static/media/ecell-logo-new.jpg": "/ECell_WebApp/static/media/ecell-logo-new.2c4f04812044989efafe.jpg",
+    "static/media/home_content_txt_dark.svg": "/ECell_WebApp/static/media/home_content_txt_dark.4edd210cd7aa9cfa0b9edbdc24d2dbfd.svg",
+    "static/media/Stars_Left_Design_Dark.svg": "/ECell_WebApp/static/media/Stars_Left_Design_Dark.fdcc5db1fb35828ff62e4c96c30eb6fc.svg",
+    "static/media/Stars_Right_Design_Dark.svg": "/ECell_WebApp/static/media/Stars_Right_Design_Dark.25c159c7d75638ec888374b6d886e52a.svg",
+    "index.html": "/ECell_WebApp/index.html",
+    "static/media/type.svg": "/ECell_WebApp/static/media/type.40282b569eaba9e952376b7e8c75f39e.svg",
+    "main.fc2e4e54.css.map": "/ECell_WebApp/static/css/main.fc2e4e54.css.map",
+    "main.8c1029cb.js.map": "/ECell_WebApp/static/js/main.8c1029cb.js.map",
+    "787.60baa0fb.chunk.js.map": "/ECell_WebApp/static/js/787.60baa0fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00c76a88.css",
-    "static/js/main.cf3e0693.js"
+    "static/css/main.fc2e4e54.css",
+    "static/js/main.8c1029cb.js"
   ]
 }
